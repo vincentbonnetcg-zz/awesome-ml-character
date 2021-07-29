@@ -7,12 +7,30 @@
 
 ## Contents
 
+- [Parametric Model](#parametric-model)
 - [Rigging](#rigging)
-- [Animation Generation](#animation-generation)
 - [Deformation](#deformation)
-- [Simulation](#simulation)
-- [Data-Driven Controllers](#data-driven-controllers)
+- [Body Simulation](#body-simulation)
+- [Cloth Simulation](#cloth-simulation)
+- [Motion Controller](#motion-controller)
+- [Motion Generation](#motion-generation)
+- [Motion Inbetweening](#motion-inbetweening)
+- [Motion Retargeting](#motion-retargeting)
 - [Contribute](#contribute)
+
+## Parametric Model
+
+**SMPL: A skinned multi-person linear model.**<br>
+*Loper, Matthew, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, and Michael J. Black.*<br>
+SIGGRAPH 2015. [[PDF](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)][[Course](https://smpl-made-simple.is.tue.mpg.de/index.html)]
+
+**Parametric modeling of 3D human body shape—A survey.**<br>
+*Cheng, Zhi-Quan, Yin Chen, Ralph R. Martin, Tong Wu, and Zhan Song.*<br>
+2015. [[Website](https://www.sciencedirect.com/science/article/abs/pii/S0097849317301929)]
+
+**SCAPE: Shape Completion and Animation of People.**<br>
+*Anguelov, Dragomir, Praveen Srinivasan, Daphne Koller, Sebastian Thrun, Jim Rodgers, and James Davis.*<br>
+SIGGRAPH 2005. [[PDF](https://ai.stanford.edu/~drago/Papers/shapecomp.pdf)]
 
 ## Rigging
 
@@ -28,15 +46,9 @@ I3D 2021. [[PDF](https://arxiv.org/pdf/2103.10602)]
 *Xu, Zhan, Yang Zhou, Evangelos Kalogerakis, Chris Landreth, and Karan Singh.*<br>
 SIGGRAPH 2020. [[PDF](https://arxiv.org/pdf/2005.00559)]
 
-## Animation Generation
-
-**Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning.**<br>
-*Peng, Xue Bin, Glen Berseth, KangKang Yin, and Michiel Van De Panne.*<br>
-2017.[[PDF](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/2017-TOG-deepLoco.pdf)]
-
-**Emergence of locomotion behaviours in rich environments.**<br>
-*Heess, Nicolas, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa et al..*<br>
-2017.[[PDF](https://arxiv.org/pdf/1707.02286)]
+**NiLBS: Neural Inverse Linear Blend Skinning.**<br>
+*Jeruzalski, Timothy, David IW Levin, Alec Jacobson, Paul Lalonde, Mohammad Norouzi, and Andrea Tagliasacchi.*<br>
+SIGGRAPH 2020. [[PDF](https://arxiv.org/pdf/2004.05980)]
 
 ## Deformation
 
@@ -69,7 +81,9 @@ Eurographics 2020.[[PDF](https://arxiv.org/pdf/2004.00326)]
 *Holden, Daniel, Bang Chi Duong, Sayantan Datta, and Derek Nowrouzezahrai..*<br>
 2020.[[PDF](http://cim.mcgill.ca/~derek/files/Deep-Cloth-paper.pdf)]
 
-## Data-Driven Controllers
+## Motion Controller
+
+### Data-Driven Controller
 
 **AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control.**<br>
 *Peng, Xue Bin, Ze Ma, Pieter Abbeel, Sergey Levine, and Angjoo Kanazawa.*<br>
@@ -98,6 +112,38 @@ SIGGRAPH Asia 2019. [[PDF](https://www.pure.ed.ac.uk/ws/files/112627363/papers_1
 **Phase-functioned neural networks for character control.**<br>
 *Holden, Daniel, Taku Komura, and Jun Saito.*<br>
 2017. [[PDF](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)]
+
+### Physics-Based Controller
+
+**CARL: Controllable Agent with Reinforcement Learning for Quadruped Locomotion.**<br>
+*Luo, Ying-Sheng, Jonathan Hans Soeseno, Trista Pei-Chun Chen, and Wei-Chao Chen.*<br>
+2020. [[PDF](https://arxiv.org/pdf/2005.03288)]
+
+## Motion Generation
+
+**Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning.**<br>
+*Peng, Xue Bin, Glen Berseth, KangKang Yin, and Michiel Van De Panne.*<br>
+2017.[[PDF](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/2017-TOG-deepLoco.pdf)]
+
+**Emergence of locomotion behaviours in rich environments.**<br>
+*Heess, Nicolas, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa et al..*<br>
+2017.[[PDF](https://arxiv.org/pdf/1707.02286)]
+
+## Motion Inbetweening
+
+**Recurrent transition networks for character locomotion.**<br>
+*Harvey, Félix G., and Christopher Pal*<br>
+SIGGRAPH Asia 2018.[[PDF](https://arxiv.org/pdf/1810.02363)]
+
+**Robust motion in-betweening.**<br>
+*Harvey, Félix G., Mike Yurick, Derek Nowrouzezahrai, and Christopher Pal*<br>
+SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2102.04942)]
+
+## Motion Retargeting
+
+**Skeleton-Aware Networks for Deep Motion Retargeting.**<br>
+*Aberman, Kfir, Peizhuo Li, Dani Lischinski, Olga Sorkine-Hornung, Daniel Cohen-Or, and Baoquan Chen*<br>
+SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2005.05732)]
 
 ## Contribute
 
