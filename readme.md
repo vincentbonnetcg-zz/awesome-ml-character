@@ -16,9 +16,13 @@
 - [Motion Generation](#motion-generation)
 - [Motion Inbetweening](#motion-inbetweening)
 - [Motion Retargeting](#motion-retargeting)
-- [Contribute](#contribute)
+- [Datasets](#datasets)
 
 ## Parametric Model
+
+**Building Statistical Shape Spaces for 3D Human Modeling.**<br>
+*Pishchulin, Leonid, Stefanie Wuhrer, Thomas Helten, Christian Theobalt, and Bernt Schiele.*<br>
+2017. [[PDF](https://arxiv.org/pdf/1503.05860)]
 
 **SMPL: A skinned multi-person linear model.**<br>
 *Loper, Matthew, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, and Michael J. Black.*<br>
@@ -27,6 +31,10 @@ SIGGRAPH 2015. [[PDF](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)][[C
 **Parametric modeling of 3D human body shape—A survey.**<br>
 *Cheng, Zhi-Quan, Yin Chen, Ralph R. Martin, Tong Wu, and Zhan Song.*<br>
 2015. [[Website](https://www.sciencedirect.com/science/article/abs/pii/S0097849317301929)]
+
+**A Statistical Model of Human Pose and Body Shape.**<br>
+*Hasler, Nils, Carsten Stoll, Martin Sunkel, Bodo Rosenhahn, and H‐P. Seidel.* <br>
+2009. [[PDF](https://www.cs.princeton.edu/courses/archive/spr11/cos598A/pdfs/Hasler09.pdf)]
 
 **SCAPE: Shape Completion and Animation of People.**<br>
 *Anguelov, Dragomir, Praveen Srinivasan, Daphne Koller, Sebastian Thrun, Jim Rodgers, and James Davis.*<br>
@@ -73,21 +81,29 @@ Eurographics 2020.[[PDF](https://arxiv.org/pdf/2004.00326)]
 *Lewin, Chris, James Power, and James Cobb.*<br>
 2021.[[PDF](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-swish-cloth-simulation-madden-nfl.pdf)]
 
+**TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
+*Patel, Chaitanya, Zhouyingcheng Liao, and Gerard Pons-Moll.*
+2020. [[PDF](https://arxiv.org/pdf/2003.04583)]
+
 **Learning Mesh-Based Simulation with Graph Networks.**<br>
 *Pfaff, Tobias, Meire Fortunato, Alvaro Sanchez-Gonzalez, and Peter W. Battaglia.*<br>
-2020.[[PDF](https://arxiv.org/pdf/2010.03409)]
+2020. [[PDF](https://arxiv.org/pdf/2010.03409)]
 
 **Subspace neural physics: Fast data-driven interactive simulation.**<br>
 *Holden, Daniel, Bang Chi Duong, Sayantan Datta, and Derek Nowrouzezahrai..*<br>
-2020.[[PDF](http://cim.mcgill.ca/~derek/files/Deep-Cloth-paper.pdf)]
+2020. [[PDF](http://cim.mcgill.ca/~derek/files/Deep-Cloth-paper.pdf)]
 
 ## Motion Controller
 
 ### Data-Driven Controller
 
+**Neural animation layering for synthesizing martial arts movements.**<br>
+*Starke, Sebastian, Yiwei Zhao, Fabio Zinno, and Taku Komura.*<br>
+2021. [[PDF](http://www.ipab.inf.ed.ac.uk/cgvu/starke2021.pdf)]
+
 **AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control.**<br>
 *Peng, Xue Bin, Ze Ma, Pieter Abbeel, Sergey Levine, and Angjoo Kanazawa.*<br>
-2021.[[PDF](https://arxiv.org/pdf/2104.02180)]
+2021. [[PDF](https://arxiv.org/pdf/2104.02180)]
 
 **A GAN-Like Approach for Physics-Based Imitation Learning and Interactive Character Control.**<br>
 *Xu, Pei, and Ioannis Karamouzas.*<br>
@@ -144,6 +160,25 @@ SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2102.04942)]
 **Skeleton-Aware Networks for Deep Motion Retargeting.**<br>
 *Aberman, Kfir, Peizhuo Li, Dani Lischinski, Olga Sorkine-Hornung, Daniel Cohen-Or, and Baoquan Chen*<br>
 SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2005.05732)]
+
+## Datasets
+
+**LAFAN1**<br>
+**Ubisoft La Forge Animation Dataset.**<br>
+*Félix G. Harvey and Mike Yurick and Derek Nowrouzezahrai and Christopher Pal.*<br>
+2020. [[Website](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)]
+
+**MPII Human Pose**<br>
+**2D Human Pose Estimation: New Benchmark and State of the Art Analysis.**<br>
+*Mykhaylo Andriluka and Leonid Pishchulin and Peter Gehler and Schiele, Bernt*.<br>
+2014. [[Website](http://human-pose.mpi-inf.mpg.de/)]
+
+**HumanEva I/II**<br> 
+*Ionescu, Catalin, Dragos Papava, Vlad Olaru, and Cristian Sminchisescu*<br>
+[[Website](http://humaneva.is.tue.mpg.de/)]
+
+**Caesar**<br>
+[[Website](https://humanshape.mpi-inf.mpg.de)]
 
 ## Contribute
 
