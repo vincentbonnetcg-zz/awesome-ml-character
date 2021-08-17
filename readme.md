@@ -68,21 +68,21 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/pdf/2004.05980)]
 *Bailey, Stephen W., Dave Otte, Paul Dilorenzo, and James F. O'Brien.*<br>
 2018.[[PDF](https://research.dreamworks.com/wp-content/uploads/2018/08/Rig_Approximation-Edited.pdf)]
 
-## Body Simulation
+## Body Dynamics
 
 **SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans.**<br>
 *Santesteban, Igor, Elena Garces, Miguel A. Otaduy, and Dan Casas.*<br>
 Eurographics 2020.[[PDF](https://arxiv.org/pdf/2004.00326)]
 
 
-## Cloth Simulation
+## Cloth Dynamics
 
 **Swish: Neural Network Cloth Simulation on Madden NFL 21.**<br>
 *Lewin, Chris, James Power, and James Cobb.*<br>
 2021.[[PDF](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-swish-cloth-simulation-madden-nfl.pdf)]
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
-*Patel, Chaitanya, Zhouyingcheng Liao, and Gerard Pons-Moll.*
+*Patel, Chaitanya, Zhouyingcheng Liao, and Gerard Pons-Moll.*<br>
 2020. [[PDF](https://arxiv.org/pdf/2003.04583)]
 
 **Learning Mesh-Based Simulation with Graph Networks.**<br>
@@ -96,6 +96,10 @@ Eurographics 2020.[[PDF](https://arxiv.org/pdf/2004.00326)]
 ## Motion Controller
 
 ### Data-Driven Controller
+
+**ProtoRes: Proto-Residual Architecture for Deep Modeling of Human Pose.**<br>
+*Oreshkin, Boris N., Florent Bocquelet, Félix H. Harvey, Bay Raitt, and Dominic Laflamme.*<br>
+2021. [[PDF](https://arxiv.org/pdf/2106.01981)[Website](https://unity-technologies.github.io/Labs/protores.html)]
 
 **Neural animation layering for synthesizing martial arts movements.**<br>
 *Starke, Sebastian, Yiwei Zhao, Fabio Zinno, and Taku Komura.*<br>
