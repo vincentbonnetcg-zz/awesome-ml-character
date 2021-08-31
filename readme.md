@@ -20,6 +20,10 @@
 
 ## Parametric Model
 
+**Learning a model of facial shape and expression from 4D scans**
+*Li, Tianye, Timo Bolkart, Michael J. Black, Hao Li, and Javier Romero*
+2017. [[PDF](https://www.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)]
+
 **Building Statistical Shape Spaces for 3D Human Modeling.**<br>
 *Pishchulin, Leonid, Stefanie Wuhrer, Thomas Helten, Christian Theobalt, and Bernt Schiele.*<br>
 2017. [[PDF](https://arxiv.org/pdf/1503.05860)]
