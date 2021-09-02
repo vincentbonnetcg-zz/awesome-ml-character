@@ -20,8 +20,8 @@
 
 ## Parametric Model
 
-**Learning a model of facial shape and expression from 4D scans**
-*Li, Tianye, Timo Bolkart, Michael J. Black, Hao Li, and Javier Romero*
+**Learning a model of facial shape and expression from 4D scans.**<br>
+*Li, Tianye, Timo Bolkart, Michael J. Black, Hao Li, and Javier Romero*<br>
 2017. [[PDF](https://www.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)]
 
 **Building Statistical Shape Spaces for 3D Human Modeling.**<br>
@@ -43,6 +43,10 @@ SIGGRAPH 2015. [[PDF](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)][[C
 **SCAPE: Shape Completion and Animation of People.**<br>
 *Anguelov, Dragomir, Praveen Srinivasan, Daphne Koller, Sebastian Thrun, Jim Rodgers, and James Davis.*<br>
 SIGGRAPH 2005. [[PDF](https://ai.stanford.edu/~drago/Papers/shapecomp.pdf)]
+
+**The space of human body shapes: reconstruction and parameterization from range scans.**<br>
+*Allen, Brett, Brian Curless, and Zoran Popović.*<br>
+2003. [[PDF](https://www.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)]
 
 ## Rigging
 
