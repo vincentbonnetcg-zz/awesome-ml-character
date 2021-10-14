@@ -8,6 +8,7 @@
 ## Contents
 
 - [Parametric Model](#parametric-model)
+- [Sparse Decomposition](#sparse-decomposition)
 - [Rigging](#rigging)
 - [Deformation](#deformation)
 - [Body Simulation](#body-simulation)
@@ -48,6 +49,24 @@ SIGGRAPH 2005. [[PDF](https://ai.stanford.edu/~drago/Papers/shapecomp.pdf)]
 *Allen, Brett, Brian Curless, and Zoran Popović.*<br>
 2003. [[PDF](https://www.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)]
 
+## Sparse Decomposition
+
+**Sparse localized deformation components.**<br>
+*Neumann, Thomas, Kiran Varanasi, Stephan Wenger, Markus Wacker, Marcus Magnor, and Christian Theobalt.*<br>
+2013. [[PDF](https://vcai.mpi-inf.mpg.de/files/splocs.pdf)]
+
+**Sparse Localized Decomposition of Deformation Gradients.**<br>
+*Huang, Zhichao, Junfeng Yao, Zichun Zhong, Yang Liu, and Xiaohu Guo.*<br>
+2014. [[PDF](https://personal.utdallas.edu/~xxg061000/CGF14.pdf)]
+
+**Linear Shape Deformation Models with Local Support using Graph-based Structured Matrix Factorisation.**<br>
+*Bernard, Florian, Peter Gemmar, Frank Hertel, Jorge Goncalves, and Johan Thunberg.*<br>
+2016. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bernard_Linear_Shape_Deformation_CVPR_2016_paper.pdf)]
+
+**Generating 3D faces using convolutional mesh autoencoders.**<br>
+*Ranjan, Anurag, Timo Bolkart, Soubhik Sanyal, and Michael J. Black.*<br>
+2018. [[PDF](https://arxiv.org/pdf/1807.10267.pdf)]
+
 ## Rigging
 
 **Learning Skeletal Articulations with Neural Blend Shapes.**<br>
@@ -76,14 +95,14 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/pdf/2004.05980)]
 *Bailey, Stephen W., Dave Otte, Paul Dilorenzo, and James F. O'Brien.*<br>
 2018.[[PDF](https://research.dreamworks.com/wp-content/uploads/2018/08/Rig_Approximation-Edited.pdf)]
 
-## Body Dynamics
+## Body Simulation
 
 **SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans.**<br>
 *Santesteban, Igor, Elena Garces, Miguel A. Otaduy, and Dan Casas.*<br>
 Eurographics 2020.[[PDF](https://arxiv.org/pdf/2004.00326)]
 
 
-## Cloth Dynamics
+## Cloth Simulation
 
 **Swish: Neural Network Cloth Simulation on Madden NFL 21.**<br>
 *Lewin, Chris, James Power, and James Cobb.*<br>
