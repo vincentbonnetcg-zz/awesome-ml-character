@@ -51,21 +51,21 @@ SIGGRAPH 2005. [[PDF](https://ai.stanford.edu/~drago/Papers/shapecomp.pdf)]
 
 ## Sparse Decomposition
 
-**Sparse localized deformation components.**<br>
-*Neumann, Thomas, Kiran Varanasi, Stephan Wenger, Markus Wacker, Marcus Magnor, and Christian Theobalt.*<br>
-2013. [[PDF](https://vcai.mpi-inf.mpg.de/files/splocs.pdf)]
-
-**Sparse Localized Decomposition of Deformation Gradients.**<br>
-*Huang, Zhichao, Junfeng Yao, Zichun Zhong, Yang Liu, and Xiaohu Guo.*<br>
-2014. [[PDF](https://personal.utdallas.edu/~xxg061000/CGF14.pdf)]
+**Generating 3D faces using convolutional mesh autoencoders.**<br>
+*Ranjan, Anurag, Timo Bolkart, Soubhik Sanyal, and Michael J. Black.*<br>
+2018. [[PDF](https://arxiv.org/pdf/1807.10267.pdf)]
 
 **Linear Shape Deformation Models with Local Support using Graph-based Structured Matrix Factorisation.**<br>
 *Bernard, Florian, Peter Gemmar, Frank Hertel, Jorge Goncalves, and Johan Thunberg.*<br>
 2016. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bernard_Linear_Shape_Deformation_CVPR_2016_paper.pdf)]
 
-**Generating 3D faces using convolutional mesh autoencoders.**<br>
-*Ranjan, Anurag, Timo Bolkart, Soubhik Sanyal, and Michael J. Black.*<br>
-2018. [[PDF](https://arxiv.org/pdf/1807.10267.pdf)]
+**Sparse Localized Decomposition of Deformation Gradients.**<br>
+*Huang, Zhichao, Junfeng Yao, Zichun Zhong, Yang Liu, and Xiaohu Guo.*<br>
+2014. [[PDF](https://personal.utdallas.edu/~xxg061000/CGF14.pdf)]
+
+**Sparse localized deformation components.**<br>
+*Neumann, Thomas, Kiran Varanasi, Stephan Wenger, Markus Wacker, Marcus Magnor, and Christian Theobalt.*<br>
+2013. [[PDF](https://vcai.mpi-inf.mpg.de/files/splocs.pdf)]
 
 ## Rigging
 
@@ -126,7 +126,7 @@ Eurographics 2020.[[PDF](https://arxiv.org/pdf/2004.00326)]
 
 **ProtoRes: Proto-Residual Architecture for Deep Modeling of Human Pose.**<br>
 *Oreshkin, Boris N., Florent Bocquelet, Félix H. Harvey, Bay Raitt, and Dominic Laflamme.*<br>
-2021. [[PDF](https://arxiv.org/pdf/2106.01981)[Website](https://unity-technologies.github.io/Labs/protores.html)]
+2021. [[PDF](https://arxiv.org/pdf/2106.01981)][[Website](https://unity-technologies.github.io/Labs/protores.html)]
 
 **Neural animation layering for synthesizing martial arts movements.**<br>
 *Starke, Sebastian, Yiwei Zhao, Fabio Zinno, and Taku Komura.*<br>
