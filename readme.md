@@ -176,6 +176,10 @@ SIGGRAPH Asia 2019. [[PDF](https://www.pure.ed.ac.uk/ws/files/112627363/papers_1
 *Heess, Nicolas, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa et al..*<br>
 2017.[[PDF](https://arxiv.org/pdf/1707.02286)]
 
+**Flexible muscle-based locomotion for bipedal creatures.**<br>
+*Geijtenbeek, Thomas, Michiel Van De Panne, and A. Frank Van Der Stappen*<br>
+2013.[[PDF](https://www.cs.ubc.ca/~van/papers/2013-TOG-MuscleBasedBipeds/2013-TOG-MuscleBasedBipeds.pdf)]
+
 ## Motion Inbetweening
 
 **Recurrent transition networks for character locomotion.**<br>
