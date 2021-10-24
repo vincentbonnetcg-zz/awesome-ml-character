@@ -168,6 +168,10 @@ SIGGRAPH Asia 2019. [[PDF](https://www.pure.ed.ac.uk/ws/files/112627363/papers_1
 
 ## Motion Generation
 
+**From Motor Control to Team Play in Simulated Humanoid Football.**<br>
+*Liu, Siqi, Guy Lever, Zhe Wang, Josh Merel, S. M. Eslami, Daniel Hennes, Wojciech M. Czarnecki et al.*<br>
+2021.[[PDF](https://arxiv.org/pdf/2105.12196.pdf)]
+
 **Deeploco: Dynamic locomotion skills using hierarchical deep reinforcement learning.**<br>
 *Peng, Xue Bin, Glen Berseth, KangKang Yin, and Michiel Van De Panne.*<br>
 2017.[[PDF](https://www.cs.ubc.ca/~van/papers/2017-TOG-deepLoco/2017-TOG-deepLoco.pdf)]
