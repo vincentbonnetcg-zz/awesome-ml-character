@@ -95,6 +95,10 @@ SIGGRAPH 2020. [[PDF](https://arxiv.org/pdf/2004.05980)]
 *Bailey, Stephen W., Dave Otte, Paul Dilorenzo, and James F. O'Brien.*<br>
 2018.[[PDF](https://research.dreamworks.com/wp-content/uploads/2018/08/Rig_Approximation-Edited.pdf)]
 
+**Fast and deep facial deformations.**<br>
+*Bailey, Stephen W., Dalton Omens, Paul Dilorenzo, and James F. O'Brien.*<br>
+2020. [[PDF](http://graphics.berkeley.edu/papers/Bailey-FDF-2020-07/Bailey-FDF-2020-07.pdf)]
+
 ## Body Simulation
 
 **SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans.**<br>
@@ -200,20 +204,28 @@ SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2102.04942)]
 *Aberman, Kfir, Peizhuo Li, Dani Lischinski, Olga Sorkine-Hornung, Daniel Cohen-Or, and Baoquan Chen*<br>
 SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2005.05732)]
 
+## Dataset Generation
+
+**Learning from Synthetic Humans.**<br>
+*Varol, Gul, Javier Romero, Xavier Martin, Naureen Mahmood, Michael J. Black, Ivan Laptev, and Cordelia Schmid.*<br>
+2017. [[PDF](https://arxiv.org/pdf/1701.01370.pdf)]
+
 ## Datasets
 
-**LAFAN1**<br>
-**Ubisoft La Forge Animation Dataset.**<br>
+**LAFAN1 - Ubisoft La Forge Animation Dataset.**<br>
 *Félix G. Harvey and Mike Yurick and Derek Nowrouzezahrai and Christopher Pal.*<br>
 2020. [[Website](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)]
 
-**MPII Human Pose**<br>
-**2D Human Pose Estimation: New Benchmark and State of the Art Analysis.**<br>
+**MPII Human Pose - 2D Human Pose Estimation: New Benchmark and State of the Art Analysis.**<br>
 *Mykhaylo Andriluka and Leonid Pishchulin and Peter Gehler and Schiele, Bernt*.<br>
 2014. [[Website](http://human-pose.mpi-inf.mpg.de/)]
 
+**Human3.6M Large Scale Datasets and Predictive Methods for 3D Human Sensing in Natural Environments.**<br>
+*Ionescu, Catalin, Dragos Papava, Vlad Olaru, and Cristian Sminchisescu.*<br>
+2013. [[Website](http://vision.imar.ro/human3.6m/description.php)]
+
 **HumanEva I/II**<br> 
-*Ionescu, Catalin, Dragos Papava, Vlad Olaru, and Cristian Sminchisescu*<br>
+*Ionescu, Catalin, Dragos Papava, Vlad Olaru, and Cristian Sminchisescu.*<br>
 [[Website](http://humaneva.is.tue.mpg.de/)]
 
 **Caesar**<br>
