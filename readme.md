@@ -17,7 +17,7 @@
 - [Motion Generation](#motion-generation)
 - [Motion Inbetweening](#motion-inbetweening)
 - [Motion Retargeting](#motion-retargeting)
-- [Dataset Generation](#data-generation)
+- [Dataset Generation](#dataset-generation)
 - [Datasets](#datasets)
 
 ## Parametric Model
