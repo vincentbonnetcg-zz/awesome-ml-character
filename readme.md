@@ -9,6 +9,7 @@
 
 - [Parametric Model](#parametric-model)
 - [Sparse Decomposition](#sparse-decomposition)
+- [Avatar Creation](#avatar-creation)
 - [Rigging](#rigging)
 - [Deformation](#deformation)
 - [Body Simulation](#body-simulation)
@@ -67,6 +68,16 @@ SIGGRAPH 2005. [[PDF](https://ai.stanford.edu/~drago/Papers/shapecomp.pdf)]
 **Sparse localized deformation components.**<br>
 *Neumann, Thomas, Kiran Varanasi, Stephan Wenger, Markus Wacker, Marcus Magnor, and Christian Theobalt.*<br>
 2013. [[PDF](https://vcai.mpi-inf.mpg.de/files/splocs.pdf)]
+
+## Avatar Creation
+
+**SMPLpix: Neural Avatars from 3D Human Models.**<br>
+*Prokudin, Sergey, Michael J. Black, and Javier Romero.*<br>
+2021.  [[PDF](https://arxiv.org/pdf/2008.06872.pdf)][[GitHub](https://github.com/sergeyprokudin/smplpix)]
+
+**Expressive body capture: 3d hands, face, and body from a single image.**<br>
+*Pavlakos, Georgios, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed AA Osman, Dimitrios Tzionas, and Michael J. Black.*<br>
+2019. [[PDF](https://arxiv.org/pdf/1904.05866.pdf)][[GitHub](https://github.com/vchoutas/smplify-x)]
 
 ## Rigging
 
