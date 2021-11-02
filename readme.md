@@ -51,6 +51,10 @@ SIGGRAPH 2005. [[PDF](https://ai.stanford.edu/~drago/Papers/shapecomp.pdf)]
 *Allen, Brett, Brian Curless, and Zoran Popović.*<br>
 2003. [[PDF](https://www.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)]
 
+**A morphable model for the synthesis of 3D faces.**<br>
+*Blanz, Volker, and Thomas Vetter.*<br>
+1999. [[PDF](https://www.face-rec.org/algorithms/3d_morph/morphmod2.pdf)]
+
 ## Sparse Decomposition
 
 **Generating 3D faces using convolutional mesh autoencoders.**<br>
