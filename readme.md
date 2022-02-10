@@ -93,6 +93,10 @@ Introduces SPLOCS.<br>
 *Pavlakos, Georgios, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed AA Osman, Dimitrios Tzionas, and Michael J. Black.*<br>
 2019. [[PDF](https://arxiv.org/pdf/1904.05866.pdf)][[GitHub](https://github.com/vchoutas/smplify-x)]
 
+**Direct Manipulation Blendshapes.**<br>
+*Lewis, John P., and Ken-ichi Anjyo.*<br>
+2010. [[PDF](http://scribblethink.org/Work/DirectManipBlendshapes/DMBpreprint.pdf)]
+
 ## Rigging
 
 **Learning Skeletal Articulations with Neural Blend Shapes.**<br>
