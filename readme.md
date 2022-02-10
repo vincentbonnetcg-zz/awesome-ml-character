@@ -61,15 +61,25 @@ SIGGRAPH 2005. [[PDF](https://ai.stanford.edu/~drago/Papers/shapecomp.pdf)]
 *Ranjan, Anurag, Timo Bolkart, Soubhik Sanyal, and Michael J. Black.*<br>
 2018. [[PDF](https://arxiv.org/pdf/1807.10267.pdf)]
 
+**Mesh-based Autoencoders for Localized Deformation Component Analysis.**<br>
+*Tan, Qingyang, Lin Gao, Yu-Kun Lai, Jie Yang, and Shihong Xia*.<br>
+2018.[[PDF](https://arxiv.org/pdf/1709.04304.pdf)]
+
+**Sparse Data Driven Mesh Deformation.**<br>
+*Lin Gao, Yu-Kun Lai, Jie Yang, Ling-Xiao Zhang, Leif Kobbelt, Shihong Xia.*<br>
+2017. [[PDF](https://arxiv.org/pdf/1709.01250)]
+
 **Linear Shape Deformation Models with Local Support using Graph-based Structured Matrix Factorisation.**<br>
 *Bernard, Florian, Peter Gemmar, Frank Hertel, Jorge Goncalves, and Johan Thunberg.*<br>
 2016. [[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bernard_Linear_Shape_Deformation_CVPR_2016_paper.pdf)]
 
 **Sparse Localized Decomposition of Deformation Gradients.**<br>
 *Huang, Zhichao, Junfeng Yao, Zichun Zhong, Yang Liu, and Xiaohu Guo.*<br>
+SPLOCS with deformation gradients<br>
 2014. [[PDF](https://personal.utdallas.edu/~xxg061000/CGF14.pdf)]
 
 **Sparse localized deformation components.**<br>
+Introduces SPLOCS.<br>
 *Neumann, Thomas, Kiran Varanasi, Stephan Wenger, Markus Wacker, Marcus Magnor, and Christian Theobalt.*<br>
 2013. [[PDF](https://vcai.mpi-inf.mpg.de/files/splocs.pdf)]
 
