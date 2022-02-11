@@ -31,6 +31,10 @@ It's odd that non-ML is included in the ML list. The non-ML papers serve as a fo
 *Le, Binh Huy, and Jessica K. Hodgins*<br>
 2016. [[PDF](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705174939/Real-time-Skeletal-Skinning-with-Optimized-Centers-of-Rotation-Paper.pdf)]
 
+**Learning from the Artist: Theory and Practice of Example-Based Character Deformation.**<br>
+*J Lewis*<br>
+2016. [[PDF](https://researcharchive.vuw.ac.nz/xmlui/bitstream/handle/10063/5255/thesis.pdf)]
+
 **SMPL: A Skinned Multi-Person Linear Model.**<br>
 *Loper, Matthew, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, and Michael J. Black*<br>
 2015. [[PDF](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)]
@@ -59,10 +63,38 @@ It's odd that non-ML is included in the ML list. The non-ML papers serve as a fo
 *Magnenat-Thalmann, Nadia, Richard Laperrire, and Daniel Thalmann*<br>
 1988. [[PDF](https://graphicsinterface.org/wp-content/uploads/gi1988-4.pdf)]
 
+### Physics Simulation
 
-### Simulation - TODO
+**Enriching facial blendshape rigs with physical simulation.**<br>
+*Kozlov, Yeara, Derek Bradley, Moritz Bächer, Bernhard Thomaszewski, Thabo Beeler, and Markus Gross*<br>
+2017. [[PDF](http://disneyresearch.s3.amazonaws.com/wp-content/uploads/20170425165601/Enriching-Facial-Blendshape-Rigs-with-Physical-Simulation-Paper2.pdf)]
 
+**Blendforces: A dynamic framework for facial animation.**<br>
+*Barrielle, Vincent, Nicolas Stoiber, and Cédric Cagniart*<br>
+2016. [[PDF](https://www.researchgate.net/profile/Nicolas-Stoiber/publication/303443665_BlendForces_A_Dynamic_Framework_for_Facial_Animation/links/574309c308ae9f741b379c05/BlendForces-A-Dynamic-Framework-for-Facial-Animation.pdf)]
 
+**Reconstructing personalized anatomical models for physics-based body animation.**<br>
+*Kadleček, Petr, Alexandru-Eugen Ichim, Tiantian Liu, Jaroslav Křivánek, and Ladislav Kavan*<br>
+2016. [[PDF](https://www.cs.utah.edu/~ladislav/kadlecek16reconstructing/kadlecek16reconstructing.pdf)]
+
+**Efficient elasticity for character skinning with contact and collisions.**<br>
+*McAdams, Aleka, Yongning Zhu, Andrew Selle, Mark Empey, Rasmus Tamstorf, Joseph Teran, and Eftychios Sifakis*<br>
+2011. [[PDF](https://www.andyselle.com/papers/18/elasticity-skinning.pdf)]
+
+**Efficient Simulation of Inextensible Cloth.**<br>
+*Goldenthal, Rony, David Harmon, Raanan Fattal, Michel Bercovier, and Eitan Grinspun*<br>
+2007. [[PDF](http://www.cs.columbia.edu/cg/pdfs/131-ESIC.pdf)]
+
+**Invertible Finite Elements For Robust Simulation of Large Deformation.**<br>
+*Irving, Geoffrey, Joseph Teran, and Ronald Fedkiw*<br>
+2004. [[PDF](https://www.math.ucla.edu/~jteran/papers/ITF04.pdf)]
+
+### Miscellaneous
+**Doug Roble - YouTube channel**<br>
+[[Channel](https://www.youtube.com/c/DougRoble)]
+
+**Ladislav Kavan - YouTube channel**<br>
+[[Channel](https://www.youtube.com/user/kavanl1)]
 
 ## Parametric Model
 
