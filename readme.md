@@ -7,6 +7,7 @@
 
 ## Contents
 
+- [Non-Machine Learning](#non-machine-learning)
 - [Parametric Model](#parametric-model)
 - [Sparse Decomposition](#sparse-decomposition)
 - [Avatar Creation](#avatar-creation)
@@ -20,6 +21,48 @@
 - [Motion Retargeting](#motion-retargeting)
 - [Dataset Generation](#dataset-generation)
 - [Datasets](#datasets)
+
+## Non-Machine Learning
+It's odd that non-ML is included in the ML list. The non-ML papers serve as a foundation and important to know.
+
+### Skinning
+
+**Real-time skeletal skinning with optimized centers of rotation.**<br>
+*Le, Binh Huy, and Jessica K. Hodgins*<br>
+2016. [[PDF](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705174939/Real-time-Skeletal-Skinning-with-Optimized-Centers-of-Rotation-Paper.pdf)]
+
+**SMPL: A Skinned Multi-Person Linear Model.**<br>
+*Loper, Matthew, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, and Michael J. Black*<br>
+2015. [[PDF](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)]
+
+**Delta Mush: smoothing deformations while preserving detail.**<br>
+*J Mancewicz, ML Derksen, H Rijpkema, et al.*<br>
+2014. [[PDF](https://on-demand.gputechconf.com/gtc/2015/presentation/S5641-Joe-Mancewicz.pdf)]
+
+**Pose-space animation and transfer of facial details.**<br>
+*Bickel, Bernd, Manuel Lang, Mario Botsch, Miguel A. Otaduy, and Markus Gross*<br>
+2008. [[PDF](https://www.gmrv.es/Publications/2008/BLBOG08/BLBOG08.pdf)]
+
+**Skinning with dual quaternions.**<br>
+*Kavan, Ladislav, Steven Collins, Jiří Žára, and Carol O'Sullivan*<br>
+2007. [[PDF](https://www.cs.utah.edu/~ladislav/kavan07skinning/kavan07skinning.pdf)]
+
+**Real‐time weighted pose‐space deformation on the GPU.**<br>
+*Rhee, Taehyun, John P. Lewis, and Ulrich Neumann*<br>
+2006. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.2149&rep=rep1&type=pdf)]
+
+**Pose space deformation: a unified approach to shape interpolation and skeleton-driven deformation.**<br>
+*Lewis, John P., Matt Cordner, and Nickson Fong*<br>
+2000. [[PDF](http://scribblethink.org/Work/PSD/PSD.pdf)]
+
+**Joint-dependent local deformations for hand animation and object grasping.**<br>
+*Magnenat-Thalmann, Nadia, Richard Laperrire, and Daniel Thalmann*<br>
+1988. [[PDF](https://graphicsinterface.org/wp-content/uploads/gi1988-4.pdf)]
+
+
+### Simulation - TODO
+
+
 
 ## Parametric Model
 
