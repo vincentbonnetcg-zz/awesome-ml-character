@@ -336,12 +336,25 @@ SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2005.05732)]
 **Caesar**<br>
 [[Website](https://humanshape.mpi-inf.mpg.de)]
 
+**DensePose**<br>
+*Facebook Research*<br>
+50K humans, collecting more then 5 million manually annotated correspondences<br>
+[[Website](https://github.com/facebookresearch/DensePose)]
+
+**SURREAL : Synthetic hUmans foR REAL tasks**<br>
+50K humans, collecting more then 5 million manually annotated correspondences<br>
+6M RGB frames of synthetic humans.<br>
+[[Website](https://www.di.ens.fr/willow/research/surreal/data/)]
+
+
 ## Interisting Links
 
 - Dan Casas : http://dancasas.github.io
 - Sebastian Starke : https://github.com/sebastianstarke/AI4Animation
 - Computer Graphics in the Era of AI : http://cs348i.stanford.edu/
-
+- https://khanhha.github.io/posts/3D-human-datasets/
+- https://graphics.soe.ucsc.edu/data/BodyModels/index.html
+- https://sric.me/Learning-to-Reconstruct-People/
 
 
 ## Contribute
