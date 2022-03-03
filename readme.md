@@ -336,6 +336,14 @@ SIGGRAPH 2020.[[PDF](https://arxiv.org/pdf/2005.05732)]
 **Caesar**<br>
 [[Website](https://humanshape.mpi-inf.mpg.de)]
 
+## Interisting Links
+
+- Dan Casas : http://dancasas.github.io
+- Sebastian Starke : https://github.com/sebastianstarke/AI4Animation
+- Computer Graphics in the Era of AI : http://cs348i.stanford.edu/
+
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
