@@ -213,6 +213,14 @@ Eurographics 2020.[[PDF](https://arxiv.org/pdf/2004.00326)]
 
 ## Cloth Simulation
 
+**SNUG: Self-Supervised Neural Dynamic Garments.**<br>
+*Igor Santesteban, Miguel A. Otaduy, and Dan Casas.*<br>
+2022. [[PDF](http://mslab.es/projects/SNUG/contents/santesteban_CVPR2022.pdf)]
+
+**Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On.**<br>
+*Igor Santesteban, Nils Thuerey, Miguel A. Otaduy and Dan Casas.*<br>
+2021. [[PDF](http://mslab.es/projects/SelfSupervisedGarmentCollisions/contents/santesteban_CVPR2021.pdf)]
+
 **Swish: Neural Network Cloth Simulation on Madden NFL 21.**<br>
 *Lewin, Chris, James Power, and James Cobb.*<br>
 2021.[[PDF](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-swish-cloth-simulation-madden-nfl.pdf)]
